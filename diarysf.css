@@ -1,0 +1,25 @@
+#open {
+        
+    background-image: url(https://i.pinimg.com/474x/91/97/37/919737e69315ba94ff3dddb20b9403ff.jpg);
+    background-repeat:no-repeat;
+    background-size: 50%;
+    background-position-x: center;
+    position:absolute;
+    top: 50%;
+    left: 57%;
+
+}
+a{
+    color: aliceblue;
+   transform: rotate(100);
+}
+
+#tulis{
+    background-image: url(https://thumbs.dreamstime.com/b/paper-spiral-notebooks-leather-icon-isolated-white-42565085.jpg);
+    background-repeat:no-repeat;
+    background-size: 50%;
+    background-position-x: center;
+    position:absolute;
+    top: 45%;
+    left: 45%;
+}
